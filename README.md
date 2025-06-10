@@ -69,6 +69,7 @@
   </nav>
 
   <h1>Византийска Галерия с Икони</h1>
+<a href="search.html">Търсачка</a>
 
   <div class="gallery">
     <img src="images/jesus-icon.jpg" alt="Икона на Христос">
